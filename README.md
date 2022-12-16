@@ -12,3 +12,6 @@ Since we don’t actually have the headset to collect brain signals we tested mi
 for emotional detection and speller on already available datasets and experiences. 
 
 Our end goal is to use the actual brain signals of the astronaut to implement these codes. 
+
+
+Here you find the used datasets in our code https://drive.google.com/drive/folders/1vG1dWoss0JP6AxmiNU70mCJvcibnQrcv?usp=share_link
